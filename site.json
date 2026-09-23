@@ -1,0 +1,10 @@
+{
+  "description": "Premium motorcycle helmet ecommerce homepage offering easy product discovery, comparison tools, and trusted info to boost rider confidence and conversions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
